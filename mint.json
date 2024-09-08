@@ -33,7 +33,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "firebase_setup"
+        "firebase_setup",
+        "upload_app_store"
       ]
     }
   ],
